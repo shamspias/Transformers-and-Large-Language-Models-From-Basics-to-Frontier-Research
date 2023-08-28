@@ -12,11 +12,12 @@
 - Basics of Neural Networks and Sequence Models
 - Birth of the Transformer
 
-**Chapter 3: The Magic of Self-Attention**
+**[Chapter 3: The Magic of Self-Attention]**(part-1/chapter_3.md)
 - Understanding the Self-Attention Mechanism
 - Multi-Head Attention and its Benefits
+- Unraveling the Self-Attention Secret
 
-**Chapter 4: Positional Encodings & Embeddings**
+**[Chapter 4: Positional Encodings & Embeddings]**(part-1/chapter_4.md)
 - Why Position Matters
 - Different Methods of Positional Encoding
 
