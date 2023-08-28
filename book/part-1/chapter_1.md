@@ -1,10 +1,8 @@
----
+# **PART I: FOUNDATIONS**
 
-**PART I: FOUNDATIONS**
 
----
 
-**Chapter 1: A Brief History of Natural Language Processing**
+## **Chapter 1: A Brief History of Natural Language Processing**
 
 In the vast realm of Computerland, there was a province named NLPville, a place where machines and human language coexisted. For years, the machines of NLPville had been trying to understand and mimic the way humans communicate, a task both fascinating and challenging.
 
@@ -20,5 +18,4 @@ However, the real revolution in NLPville came with the deep learning dynasty. Ne
 
 Enter the Transformer. Neither just rule-based scribe nor merely a statistical fortune teller, the Transformer was like a grand sorcerer, weaving spells (or attention mechanisms) that allowed it to focus on different parts of a sentence simultaneously, understanding context like no machine before.
 
----
 
