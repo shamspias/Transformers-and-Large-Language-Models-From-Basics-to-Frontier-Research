@@ -4,11 +4,11 @@
 
 **PART I: FOUNDATIONS**
 
-**Chapter 1: A Brief History of Natural Language Processing**
+**[Chapter 1: A Brief History of Natural Language Processing][part-1/chapter_1.md]**
 - Early Days to Modern NLP
 - Milestones Leading to Transformers
 
-**Chapter 2: Introduction to the Transformer Architecture**
+**[Chapter 2: Introduction to the Transformer Architecture][part-1/chapter_2.md]**
 - Basics of Neural Networks and Sequence Models
 - Birth of the Transformer
 
