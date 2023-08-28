@@ -1,10 +1,7 @@
----
-
 In the vast digital landscape of Computerland, a vibrant town named NLPville stands tall. For years, this town has been where machines tirelessly learned to decode the nuances of human language. From adhering to set rules to making educated guesses based on past patterns, NLPville evolved. Now, on its horizon is a modern city, Transformerland, that promises to unlock even deeper mysteries of language.
 
----
 
-**Chapter 2: Adventures of "Apple" in Transformerland**
+## **Chapter 2: Adventures of "Apple" in Transformerland**
 
 Amidst the bustling streets of NLPville lies a gateway to Transformerland. It's here that words like "apple" embark on enlightening adventures, uncovering their intricate relationships and deeper meanings. Come, let's follow "apple" as it navigates the wonders of Transformerland.
 
